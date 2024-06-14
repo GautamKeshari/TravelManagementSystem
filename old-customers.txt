@@ -1,0 +1,14 @@
+
+Customer ID: 1
+Name: Gautam
+Age: 0
+Mobile Number: 8
+Address: 
+Gender: 
+
+Customer ID: 2
+Name: Ayush
+Age: 20
+Mobile Number: 7282
+Address: abc
+Gender: M
